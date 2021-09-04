@@ -4,7 +4,7 @@ import App from './App';
 describe('App component', () =>{
   it('App renders', ()=>{
     render (<App />);
-    // screen.debug();
+    //  screen.debug();
     expect(screen.getByRole('list')).toBeInTheDocument();
   })
 })

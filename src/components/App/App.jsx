@@ -10,10 +10,12 @@ import './App.css';
 console.log('List', List);
 console.log('Search', Search);
 const data =[
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'TypeScript',
+  'Mark',
+  'Revelation',
+  'Colossians',
+  '1 Timothy',
+  '1 Timothy',
+  'Hebrews',
 ];
 function App() {
 const [search, setSearch] = useState('');
@@ -27,7 +29,7 @@ useEffect(() => {
     <div className="App">
       <div className="App-header">
       <Search value={search} onChange={(e) => setSearch(e.target.value)}>
-        Find course:
+        Find books:
       </Search>
         <List items={items} />
       </div>

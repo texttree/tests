@@ -14,7 +14,7 @@ const data =[
   'Revelation',
   'Colossians',
   '1 Timothy',
-  '1 Timothy',
+  '2 Timothy',
   'Hebrews',
 ];
 function App() {

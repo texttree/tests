@@ -3,5 +3,5 @@
 "version": "0.1.0",
 "date":"YYYY-MM-DD",
 "logo":"url of image",
-"dependencies":[]
+"dependencies":['test-rcl1','test-rcl-2']
 }

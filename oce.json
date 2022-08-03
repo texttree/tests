@@ -3,5 +3,5 @@
 "version": "0.1.0",
 "date":"YYYY-MM-",
 "logo":"3",
-"dependencies":["test-rc1","test-rcl-2"]
+"dependencies":['test-rc1','test-rcl-2']
 }

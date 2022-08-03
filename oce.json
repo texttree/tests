@@ -2,6 +2,6 @@
 "name":"texttree/tests",
 "version": "0.1.0",
 "date":"YYYY-MM-",
-  "dependencies":["1"]
+ "dependencies":["1"],
 
 }

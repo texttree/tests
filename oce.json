@@ -1,7 +1,7 @@
 {
 "name":"texttree/tests",
 "version": "0.1.0",
-"date":"YYYY-MM-DD",
+"date":"YYYY-MM-",
 "logo":"3",
 "dependencies":['test-rcl1','test-rcl-2']
 }

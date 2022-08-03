@@ -1,0 +1,7 @@
+{
+"name":"texttree/tests",
+"version": "0.1.0",
+"date":"YYYY-MM-DD",
+"logo":"url of image",
+"dependencies":["rcl1","rcl2"]
+}

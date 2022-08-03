@@ -1,0 +1,7 @@
+{
+"name":"name of app/library",
+"version": "0.1.0",
+"date":"2021-MM-DD",
+"logo":"url of image",
+"dependencies":["rcl1","rcl2"]
+}
